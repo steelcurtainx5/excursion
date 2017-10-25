@@ -4,13 +4,32 @@ html {
   color: white;
 }
 #header {
+  text-align: center;
   font-size: 50px;
   font-weight: normal;
 }
-#download {
+.download {
+  text-align: center;
   color: Aquamarine;
   font-size: 16px;
-}
+  }
 p {
   text-align: center;
 }
+h4 {
+  text-align: center;
+}
+h2 {
+text-align: center;
+font-weight: 300;
+font-size: 42px;
+}
+#pic {
+  color: grey;
+  font-size: 21px;
+}
+#foot {
+  color: grey;
+  text-align: right;
+  font-size: 21px;
+ }
